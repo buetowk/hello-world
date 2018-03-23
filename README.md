@@ -1,5 +1,5 @@
 # hello-world
 
-New to the world of coding. Trying the good ol' teach yourself method. 
+New to the world of web development. 
 
-Here goes nothing. 
+Let the learning begin. 
